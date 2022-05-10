@@ -1,0 +1,16 @@
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.csproj.AssemblyReference.cache
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.AssemblyInfoInputs.cache
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.AssemblyInfo.cs
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\bin\Debug\net5.0\Mediator_Pattern.exe
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\bin\Debug\net5.0\Mediator_Pattern.deps.json
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\bin\Debug\net5.0\Mediator_Pattern.runtimeconfig.json
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\bin\Debug\net5.0\Mediator_Pattern.runtimeconfig.dev.json
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\bin\Debug\net5.0\Mediator_Pattern.dll
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\bin\Debug\net5.0\Mediator_Pattern.pdb
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.dll
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\refint\Mediator_Pattern.dll
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.pdb
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\Mediator_Pattern.genruntimeconfig.cache
+C:\Users\Scooby\Desktop\Behavioral_Patterns\Mediator_Pattern\obj\Debug\net5.0\ref\Mediator_Pattern.dll
